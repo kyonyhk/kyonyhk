@@ -15,8 +15,8 @@ An AI business partner inside a browser-based desktop OS that helps people turn 
 **Frost** · [frost-snow.com](https://www.frost-snow.com)
 An immersive snowboarding brand site built with Three.js, WebGL, and GSAP. Recognized by Awwwards, FWA, and the GSAP showcase.
 
-**Rabbit Hole** · [rabbit-hole.lovable.app](https://rabbit-hole.lovable.app/)
-An AI ideation tool that turns ideas into a living visual map. Top 15 in the Lovable Build Competition.
+**Rabbit Hole** · [rabbit-hole.app](https://rabbit-hole.app/)
+An AI thinking tool that interrogates the ideas you already have, surfacing the assumptions, biases, and dependencies they hide. Top 15 in the Lovable Build Competition.
 
 **Genopets**
 Product design lead for a move-to-earn crypto game that reached a million users. Led UX across web and mobile, including a 3D NFT minting experience.
