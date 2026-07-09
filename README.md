@@ -30,7 +30,7 @@ An AI ideation tool that turns ideas into a living visual map. Top 15 in the Lov
 **Genopets**
 Product design lead for a move-to-earn crypto game that reached a million users. Led UX across web and mobile, including a 3D NFT minting experience.
 
-> My product work at Akarii and Omaru lives in private repos. Carbon and Graphite are public, and show how I think about agent design from the ground up.
+> My product work at Akarii and Omaru lives in private repos. Carbon, Graphite, and everyblock are public, so you can read how I actually build.
 
 ## Elsewhere
 
